@@ -11,8 +11,8 @@ if (typeof $ === 'function') {
                 type: 'warning',
                 showConfirmButton: true,
                 showCancelButton: false,
-                confirmButtonText: '确认',
-                cancelButtonText: '取消'
+                confirmButtonText: 'OK',
+                cancelButtonText: 'back'
             },
             html: '<div class="BeAlert_box">' +
             '<div class="BeAlert_image"></div>' +
